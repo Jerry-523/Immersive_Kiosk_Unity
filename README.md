@@ -27,21 +27,5 @@
    - Click the mouse button to press on an item.
 4. If you are done using the hands/controllers, press `1` to deactivate them.
 
----
-
-## Build Instructions
-
-### Build Instructions
-
-1. Install Unity version **2022.3.16f1**.
-2. Install VRTK version **VRTK v4**.
-3. Clone the repository:
-   ```bash
-   git clone https://github.com/Sengeki1/Immersive_VR_Kiosk.git
-   cd Immersive_VR_Kiosk
-   ```
-4. Open the project in Unity.
-5. Set the target platform to Android (for Meta Quest) or Windows (for desktop testing). If target platform is for Meta Quest, ensure that ``UnityXRPluginFramework`` is enabled and ``CameraRigs.SpatialSimulator`` is disabled. One can do this by clicking Toggle Active State.
-6. Build and deploy using Unity’s build tools.
 
 ---
